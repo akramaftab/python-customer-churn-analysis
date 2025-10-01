@@ -80,7 +80,8 @@ This project brings hard data to life in a way that shows where and why customer
 - Python (Pandas to analyze data, Matplotlib and Seaborn to visualize)
 - Jupyter Notebook for a smooth, interactive experience
 
-## View Project Here
+## Screen Shot/ Demos
+[Click to view the project](https://github.com/akramaftab/python-customer-churn-analysis/blob/main/python%20customer%20churn%20project.pdf)
 
 ***
 
