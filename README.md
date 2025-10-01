@@ -10,7 +10,7 @@ This project digs into the story behind why some customers decide to leave a ser
 
 At its core, this project answers straightforward questions: Who is more likely to leave? When do most customers churn? What role do contract terms, payment methods, and extra services play? By turning data into easy-to-grasp insights, the project gives companies a map to reduce churn and build stronger relationships with their customers.
 
-## Dataset Used
+## [Dataset Used](https://github.com/akramaftab/python-customer-churn-analysis/blob/main/Customer%20Churn%20data.csv)
 
 The analysis works with a detailed dataset of over 7,000 customers, tracking information like:
 - Customer demographics and subscription details
@@ -80,4 +80,8 @@ This project brings hard data to life in a way that shows where and why customer
 - Python (Pandas to analyze data, Matplotlib and Seaborn to visualize)
 - Jupyter Notebook for a smooth, interactive experience
 
+## View Project Here
+
 ***
+
+
